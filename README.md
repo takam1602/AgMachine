@@ -1,6 +1,6 @@
 # AgMachine
 Latest or oldest information of agricultural machinery
-$B:G?7!&5l<0$NG@6H5!3#$N>pJs$r3JG<$7$F$$$k%l%]%8%H%j$G$9!%(B
+最新・旧式の農業機械の情報を格納しているレポジトリです．
 
 # Objectives
-$B5!3#3+H/!$FC$KG@6H5!3#3+H/$K7H$o$C$F$$$kJ}!9$K!$5!3#%*%?%/$?$A$K!$LrN)$D>pJs$rDs6!$7$?$$$H9M$($F$$$^$9!%(B
+機械開発，特に農業機械開発に携わっている方々に，機械オタクたちに，役立つ情報を提供したいと考えています．
