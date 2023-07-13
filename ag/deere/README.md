@@ -27,6 +27,10 @@ Nothing Runs Like a Deere
 |---- | ---- | ---- |
 |足回り|  Dumper  |  XTRAFLAX  |
 
+[410Rの足回り](https://partscatalog.deere.com/jdrc/sidebyside/equipment/36980178/referrer/navigation/pgId/893723735)
+
+[R4150iの足回りi](https://partscatalog.deere.com/jdrc/sidebyside/equipment/4472577/referrer/navigation/pgId/854503071)
+
 ## Drill
 
 ## Tillage
