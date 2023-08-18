@@ -2,9 +2,19 @@
 
 ## 折り畳めて200-300hpで引っ張れそうな．
 
-- [Parma のFolding land plane ](https://parmacompany.com/ag-equipment/tillage/land-plane/folding-land-plane/)
+- [Parma Folding land plane ](https://parmacompany.com/ag-equipment/tillage/land-plane/folding-land-plane/)
+![](img/parma_landplane.jpg)
 
-folding model ですがランドプレーンなので均平の効率はそれほどよくなさそうです．
+- [Schmeiser VARITRAK 3PT Land Leveler](https://www.tgschmeiser.com/products/landlevelers/3pointlandleveler.html)
+![](img/schmeiser_varitrak_spec.png)
+
+- [Art's way land planes](https://artsway.com/equipment/)
+![](img/artsway_landplane_back.jpg)
+
+- folding model ですがランドプレーンなので均平の効率は未知数です．
+- schmeiserとart's way のは3pt ヒッチ部がセルフレベリングするようなので良さそうに見えます．
+- art's way , parma はスプリングタインがオプションでつけられそう．
+- どれも 3pt ヒッチ(半直装)なので取り回しは良さそう.
 
 - k-tec のレベラーを現場で組み立て
 [K-tec ](https://www.youtube.com/watch?v=ZpQb3bLyWrE)
@@ -124,3 +134,31 @@ FBの方は生きているかも．
 色々作ってそうな．
 Swecoに似ている．
 同じカリフォルニアだし．
+
+- [Art's way](https://artsway.com/equipment/)
+
+色々作っている.
+
+[カタログ](https://artsway.com/wp-content/uploads/2023/07/Dirt-Work-Web-Spreads.pdf)
+
+
+折りたたみのランドプレーン
+オプションでスプリングタインがついている．
+表層の圧密を抑えて表面滞水が抑えられるかも．
+
+作業幅と移動幅は24ftで12ft, 30 ftで 14ft の2種類
+
+- [Orthman](https://orthman.com/soil-moving/)
+
+あのorthman もレベラーを作っていた．
+
+小型のスクレーパも作っている．
+
+幅は小さめ．
+
+-[NAMMCO](http://nammco.net/Landgraders.asp)
+
+ランドグレーダーやスクレーパーを作っている．
+
+Levee 関連のパッカーやディスクは畦畔造成に使えそう．
+
