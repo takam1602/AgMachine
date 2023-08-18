@@ -12,27 +12,26 @@
 - この3種類だったらart's way が良さそうに見えます．パーツ供給がどの程度かわかりませんが... 
 
 
-- [Parma Folding land plane ](https://parmacompany.com/ag-equipment/tillage/land-plane/folding-land-plane/)
+##  [Parma Folding land plane ](https://parmacompany.com/ag-equipment/tillage/land-plane/folding-land-plane/)
 
-[カタログ](https://parmacompany.com/wp-content/uploads/2017/08/2015-LAND-PLANE.pdf)
+###  [カタログ](https://parmacompany.com/wp-content/uploads/2017/08/2015-LAND-PLANE.pdf)
 ![](img/parma_landplane.jpg)
 ![](img/parma_landplane_spec.png)
 
-- [Schmeiser VARITRAK 3PT Land Leveler](https://www.tgschmeiser.com/products/landlevelers/3pointlandleveler.html)
+## [Schmeiser VARITRAK 3PT Land Leveler](https://www.tgschmeiser.com/products/landlevelers/3pointlandleveler.html)
 
-[カタログ](https://www.tgschmeiser.com/pdfs/Open%20Field.pdf)
+### [カタログ](https://www.tgschmeiser.com/pdfs/Open%20Field.pdf)
 
 ![](img/schmeiser_varitrak.png)
 ![](img/schmeiser_varitrak_spec.png)
 
-- [Art's way land planes](https://artsway.com/equipment/)
+## [Art's way land planes](https://artsway.com/equipment/)
 
-[カタログ](https://artsway.com/wp-content/uploads/2023/07/Dirt-Work-Web-Spreads.pdf)
+### [カタログ](https://artsway.com/wp-content/uploads/2023/07/Dirt-Work-Web-Spreads.pdf)
 
 ![](img/artsway_landplane_back.jpg)
 ![](img/artsway_landplane_spec.png)
 (24ft は44389ドルから!!)
-
 
 - folding ではないレベラーは現場で組み立て
 [K-tec ](https://www.youtube.com/watch?v=ZpQb3bLyWrE)
