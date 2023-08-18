@@ -6,7 +6,7 @@
 
 [カタログ](https://parmacompany.com/wp-content/uploads/2017/08/2015-LAND-PLANE.pdf)
 ![](img/parma_landplane.jpg)
-![](img/parma_landplane_spec.jpg)
+![](img/parma_landplane_spec.png)
 
 - [Schmeiser VARITRAK 3PT Land Leveler](https://www.tgschmeiser.com/products/landlevelers/3pointlandleveler.html)
 
