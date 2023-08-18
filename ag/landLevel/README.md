@@ -2,6 +2,16 @@
 
 ## 折り畳めて200-300hpで引っ張れそうな．
 
+- Parma, Schmeiser, Art's way を見つけました．
+- folding model ですがランドプレーンなので均平の効率は未知数
+- どれも3pt ヒッチ部がセルフレベリング(フローティング)するようなので良さそう.
+- どれも 3pt ヒッチ(半直装)なので取り回しは良さそう.
+- art's way , parma はスプリングタインがオプションでつけられそう．
+- art's way のはリアシリンダがついているため高さ調節しやすそう．
+
+- この3種類だったらart's way が良さそうに見えます．パーツ供給がどの程度かわかりませんが... 
+
+
 - [Parma Folding land plane ](https://parmacompany.com/ag-equipment/tillage/land-plane/folding-land-plane/)
 
 [カタログ](https://parmacompany.com/wp-content/uploads/2017/08/2015-LAND-PLANE.pdf)
@@ -23,18 +33,10 @@
 ![](img/artsway_landplane_spec.png)
 (24ft は44389ドルから!!)
 
-- folding model ですがランドプレーンなので均平の効率は未知数です．
-- どれも3pt ヒッチ部がセルフレベリング(フローティング)するようなので良さそう.
-- どれも 3pt ヒッチ(半直装)なので取り回しは良さそう.
-- art's way , parma はスプリングタインがオプションでつけられそう．
-- art's way のはリアシリンダがついているため高さ調節しやすそう．
 
 - folding ではないレベラーは現場で組み立て
 [K-tec ](https://www.youtube.com/watch?v=ZpQb3bLyWrE)
 
-この3種類だったらart's way が良さそうに見えます．
-
-パーツ供給がどの程度かわかりませんが... 
 
 ## 分類
 大まかに３種類のレベラーがあると勝手に分類しました．
