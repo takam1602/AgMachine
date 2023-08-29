@@ -75,7 +75,7 @@ CRP ground のような狭い土地での播種に向いている．
 
 [Online](https://www.deere.com/assets/publications/index.html?id=ec2fcd6f)
 or 
-[](./brochure/airSeeding_2021.pdf)
+[PDF](./brochure/airSeeding_2021.pdf)
 
 - N500C series
 
