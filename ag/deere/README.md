@@ -1,6 +1,5 @@
 # John Deere
 Nothing Runs Like a Deere
-
 地域によって生産・販売している品目が異なる．
 トラクタは大筋同一であるが，コンバインは小型サイズのものが様々であったり，耕起やドリル関連はほとんど機械の種類が異なる．
 
@@ -13,6 +12,36 @@ Nothing Runs Like a Deere
 - [CN John deere](https://www.deere.com.cn/zh/index.html)
 
 ## Tractor
+### Power beyond は何．
+
+[Pressure free return and power beyond](https://salesmanual.deere.com/sales/salesmanual/en_GB/tractors/2017/feature/hydraulics/6m/power_beyond_r2_t4.html)
+
+- Pressure free return
+
+Pressure-free return is now available optionally ex-factory. The option comes with two couplers, the larger 19-mm (3/4-in.) pressure-free return port for large oil quantities (black cover) and a smaller (yellow cover) pressure-free return for motor case drain.
+    - Direct oil flow return to the oil tank
+    - Mounted flat-face couplers for less leakage
+    - 19mm coupler allows for large, unrestriceted oil volumes
+    - Allows pressure-free return of oil via two ports: tank return and drain
+    - Pressure is generated via SCV
+
+- Power beyond 
+
+Power beyond allows the supply of hydraulic oil to implements with own control valves (for example, electrohydraulic valves on trailed silage wagons and balers) or hydraulic motors (for example, a vacuum fan on a planter or a pump on a sprayer).
+It is a dedicated plate located on the right-hand side of the rockshaft providing four ports: pressure, load sensing (LS), pressure-free return, and motor case drain.
+Use power beyond when:
+    - Implement has its own control valve governing the amount of oil required via load sensing.
+    - No other SCV outlet is available.
+
+Benefits and details
+    - Reduction of wear due to a high level of efficient use of hydraulic oil circulation.
+    - Better system performance as only the required amount of oil is provided to the implement.  
+    - Four separate parts are provided at the rear end of the tractor: pressure (P), load sensing (LS), tank return (R), and drain (D).
+    - All couplers are flat-face couplers.
+
+外部作業機のロードセンシングを行うために，SCVのモータの流量を調節するための回路を構成するためのバルブがPower beyond.
+トラクタのパワーステアリングやヒッチの上下，トランスミッションなどにはロードセンシングしながらのクローズドセンタで油圧回路を構成している.
+外部作業機側にも差圧を取るバルブがついていて作業機が負荷に応じてトラクタ側の油圧流量の制御を求める場合，，差圧をモータに入力するための油圧回路が必要になるためpower beyond が必要．
 
 ## Combine
 
@@ -120,5 +149,6 @@ seeding unit の押し付け圧の調整
 
 そしておそらく，とんでもなく高価... 25万ドル！！！！！！！４０００万！！！
 ![](./pic/n530c_buildyourOwn.png)
+
 ## Tillage
 
