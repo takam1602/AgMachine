@@ -33,5 +33,12 @@ Nothing Runs Like a Deere
 
 ## Drill
 
+### 1590 に代わるドリルはなんだろうか．
+
+要件
+- 日本の狭い道路でも移動できる移動幅
+- N530C  
+[](https://www.deere.com/en/seeding-equipment/n530c-central-commodity-system-ccs/)
+
 ## Tillage
 
