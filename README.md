@@ -10,3 +10,4 @@ Latest or oldest information of agricultural machinery
 - [レベラー](ag/landLevel)
 - [スペードブレードローラー](ag/landHarrow)
 - [John Deere](ag/deere)
+- [モロオカ](ag/morooka)
