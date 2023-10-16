@@ -1,4 +1,9 @@
 # AgMachine
+![](./img/1.jpg)
+![](./img/2.jpg)
+![](./img/3.jpg)
+![](./img/4.jpg)
+
 Latest or oldest information of agricultural machinery
 
 最新・旧式の農業機械の情報を格納しているレポジトリです．
