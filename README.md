@@ -1,8 +1,6 @@
 # AgMachine
-![](./img/1.jpg)
-![](./img/2.jpg)
-![](./img/3.jpg)
-![](./img/4.jpg)
+![](./img/1.jpg)![](./img/2.jpg)
+![](./img/3.jpg)![](./img/4.jpg)
 
 Latest or oldest information of agricultural machinery
 
