@@ -8,3 +8,7 @@
 - [防災研　ロータリ除雪車の高速化に関する研究](https://nied-ir.bosai.go.jp/?action=repository_action_common_download&item_id=3753&item_no=1&attribute_id=22&file_no=1)
 - [土木研　湿雪地帯の除雪機構に関する研究](https://thesis.pwri.go.jp/files/doken_shiryou_0228_00.pdf)
 - [土木研　除雪機械の作業性能の調査　その２](https://thesis.pwri.go.jp/files/doken_shiryou_0323_00.pdf)
+
+# 除雪車写真貼
+
+-[開発局のUブレードが...](https://x.com/kenkinosuke/status/1652608666032545792?s=20)

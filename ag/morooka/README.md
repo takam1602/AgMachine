@@ -2,6 +2,9 @@
 
 牛久沼のほとりにある株式会社諸岡，現在こそ商品のラインナップが絞られているものの，ひと昔まえはとても暴れていた．
 
+# 写真貼
+[写真たち](./worldTractor.md)
+# 勝手に歴史
 [会社の沿革](https://www.morooka.co.jp/company/history) と
 [youtube の会社案内](https://www.youtube.com/watch?v=EO0QuQMJbwk)と
 手持ちのカタログを参照して歴史をまとめてみる．
