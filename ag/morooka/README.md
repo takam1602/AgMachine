@@ -277,6 +277,7 @@ Morooka Adventure シリーズが登場．
 
 - 2003年4月のHPから農業用トラクタ，ゴムクローラトラクタの表記は消えてしまった．
 
-![](./img/morooka_2003_0215.png)![](./img/morooka_2002_0211_spec.png)
-![](./img/morooka_2002_history.png)![](./img/morooka_nanikore.png)
+![](./img/morooka_2003_0215.png "2003年2月HP 商品案内(Wayback machineを利用してキャプチャ)")![](./img/morooka_2002_0211_spec.png " 2003年2月HP 仕様(Wayback machineを利用してキャプチャ)")
+![](./img/morooka_2002_history.png "2002年HPに掲載されていた写真(Wayback machineを利用してキャプチャ)")![](./img/morooka_nanikore.png "2002年キャリアダンプに搭載された小型バックホー, 詳細不明(Wayback machineを利用してキャプチャ)")
+
 # これにてモロオカ農業用トラクタ,　終
