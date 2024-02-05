@@ -1,0 +1,75 @@
+# 開拓の機械
+森林の抜開とかに使う大きい機械って，ロマンありますよね．
+日本では絶対に使われないような機械こそ，このサイトで取り扱うべきだろう．
+
+## [Savannah](https://savannahglobal.com/)
+ジョージア州の会社．
+森林用の機械ならたいてい扱ってそう．
+
+### Agriculture
+- 600 series Heavy offset disks
+[600](./brochure/Magnum-600-Series.pdf)
+[600F](./brochure/MAGNUM-600F-SERIES-FIXED-OFFSET-DISK-AUS.pdf)
+    - stump-jump ディスクハロー．
+    - 36インチ！！
+    - 6m で450-600 馬力
+    - ディスク1枚あたりにかかる重量は1t 超え．
+
+- 500 series single way plow 
+[500](./brochure/500-3pt.pdf)
+    - これもヤバそう
+    - 昔の小西・スターのブッシュボグハロー的な．
+    - 504 と505: おそらく直装
+    - 8 disks から16 disks まで．
+    - 36 インチブレードを最も大きい機種で16 枚... 重さは15t になるみたい．
+
+- 700 special plows 
+[700](./brochure/700-Series.pdf)
+    - サイズ的には普通
+    - リッジディスクプラウ
+    - 畦畔造成に良さそう．
+
+### Forestry
+Ag でこんなにやばかったら，Forestry ではどうなるのか．
+- Bedding Plow
+[100](./brochure/MAGNUM-140-Rev-D.pdf)
+[200](./brochure/200SeriesMountedBeddingPlow.pdf)
+    - 100 とか200 はまあ小さいだろうと思ったら，デカかった．
+    - 前の700 のクソデカ版
+    - なにゆえ，森林抜開地でリッジングするのだろうか．
+
+- Combination Sub-soil plows
+[300](./brochure/300series.pdf)
+[400](./brochure/400MountedRidegPlow.pdf)
+    - サブソイラ付きの，牽引式・直装式のリッジプラウ
+    - でかいわ．
+
+### Land Clearing
+- Single Blade/Root plows
+[900](./brochure/SERIES-900-BLADE-PLOW-BROCHURE.pdf)
+    - 残根処理，引き抜き専用機械
+    - 主根もいけるのかもだけど，基本的にはその周りのほそぼそとしたたくさんある根を抜き上げる機械か．
+- Rotary rake
+[1207](./brochure/MODEL-1207-ROTARY-FINE-RAKE.pdf)
+[1200](./brochure/MODEL-1200-RAKES-C.pdf)
+    - 牧草とはわけが違う．
+    - 900 とかで引っこ抜いて地面に散乱した根・枝・葉をウィンドローにする．
+    - Pinwheel diameter 2.4m とか．でかい．
+- Stump puller
+[1700](./brochure/MODEL-1700-STUMP-PULLER-A.pdf)
+[1710](./brochure/MODEL-1710-STUMP-PULLER-B.pdf)
+    - 動画でよく見るやつ．
+    - 連続でメインの太い切り株を掘り上げる．
+    - トラクタの種類が決まっている??
+    - 処理量を表しているやつだった．スピードレンジが異なるため，処理面積が異なる．
+
+
+## [ERDVARK](https://www.erdvark.co.za/)
+南アフリカの会社
+まあへんなの　いっぱい作ってる． 
+### Land Clearing
+- Bush rake
+[TRK](./brochure/TRK-Bush-Rake-3.pdf)
+
+    - レーキ直径は1.68 m か2.2m 
+    - ゴムタイヤなので，横滑り防止のディスクはついていない．軽いの専用??

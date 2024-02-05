@@ -14,3 +14,5 @@ Latest or oldest information of agricultural machinery
 - [スペードブレードローラー](ag/landHarrow)
 - [John Deere](ag/deere)
 - [モロオカ](ag/morooka)
+- [開拓/LandClearing](ag/landClearing)
+- [タイ](ag/Thailand)
