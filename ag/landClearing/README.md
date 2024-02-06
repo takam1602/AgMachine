@@ -73,3 +73,20 @@ Ag でこんなにやばかったら，Forestry ではどうなるのか．
 
     - レーキ直径は1.68 m か2.2m 
     - ゴムタイヤなので，横滑り防止のディスクはついていない．軽いの専用??
+
+## [Harrell](https://harrellag.com/)
+ジョージアに本社，乾燥地域の作業機を作っている会社
+- Rock N’ Root Rake
+[rake](./brochure/HAP-Rock-N-Root-Rake-Flyer-Digital-v3.pdf)
+    -　そこそこの大きさのレーキかも
+    -　造りはそこそこかも
+
+## [MULTI FARMING SYSTEMS](https://multifarmingsystems.com.au/)
+オーストラリア,クイーンズランドの会社．世界最大のレーキかも．
+- Stickrake / Rock and Root Rake
+[rake](./brochure/18-Wheel-Rake-8.5-x-11-21-Sep-15.pdf)
+    - でかいし，大きい．
+    - ホイール径は1.2 m !! 
+    - up to 23 wheels !!
+    - 長いのになると，重量は17t 程度．
+    - これは，散乱している木が，軽くて細かくて，背の高くない，オーストラリアの植生に適したレーキ，ということになりそう．
