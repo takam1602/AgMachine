@@ -29,6 +29,13 @@
     - リッジディスクプラウ
     - 畦畔造成に良さそう．
 
+- 500 One-way plows
+[500](./brochure/500_plows.pdf)
+
+- でかいディスクプラウ，36 インチディクスで10-20枚．作業幅は6m くらい．
+- スタンプジャンプディスクプラウ．強靭，最強．
+- 16連まではトラクタで曳けるけど，それ以上はブルじゃないと無理．
+
 ### Forestry
 Ag でこんなにやばかったら，Forestry ではどうなるのか．
 - Bedding Plow
@@ -44,17 +51,30 @@ Ag でこんなにやばかったら，Forestry ではどうなるのか．
     - サブソイラ付きの，牽引式・直装式のリッジプラウ
     - でかいわ．
 
+- Eco-Till High Impact Minimal Tillage
+[Eco-Til](./brochure/EcoTil.pdf)
+[Eco-Til 2](./brochure/EcoTil2.pdf)
+
+- サブソイラだけど，リッジャのディスクは取り外し，ただ単に48インチコールタを取り付けただけの機械．
+コールタ間の土は完全に破壊されるが，土の移動は少なく，植林には良いみたい．
+- コマツの地ごしらえ機，に装着されているやつ
+- [(コマツ地ごしらえ機)](https://jifpro.or.jp/wp-content/uploads/2021/12/R03_tpps_seminar_3.pdf)
+- [コマツの森林復活の取り組み](https://www.komatsu.jp/ja/-/media/home/aboutus/brandcommunication/newspaper-1page/creating_value_together_1p.pdf?rev=265670148ee04ccf8af1f082e168b7bb&hash=AF9C72A24B9DA9E0B8F4D8E92DAA11C6)
+- [コマツの移植ブル](https://www.komatsu.jp/ja/-/media/home/aboutus/innovation/technology/techreport/2021/ja/174j06.pdf?rev=-1&hash=F9773FFAEEBACA6552D948F8D00E26F8)
+
 ### Land Clearing
 - Single Blade/Root plows
 [900](./brochure/SERIES-900-BLADE-PLOW-BROCHURE.pdf)
     - 残根処理，引き抜き専用機械
     - 主根もいけるのかもだけど，基本的にはその周りのほそぼそとしたたくさんある根を抜き上げる機械か．
+
 - Rotary rake
 [1207](./brochure/MODEL-1207-ROTARY-FINE-RAKE.pdf)
 [1200](./brochure/MODEL-1200-RAKES-C.pdf)
     - 牧草とはわけが違う．
     - 900 とかで引っこ抜いて地面に散乱した根・枝・葉をウィンドローにする．
     - Pinwheel diameter 2.4m とか．でかい．
+
 - Stump puller
 [1700](./brochure/MODEL-1700-STUMP-PULLER-A.pdf)
 [1710](./brochure/MODEL-1710-STUMP-PULLER-B.pdf)

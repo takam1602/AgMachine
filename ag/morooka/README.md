@@ -6,7 +6,8 @@
 [写真たち](./worldTractor.md)
 
 # 日本農業機械新聞の記事
-
+日本農業新聞をひたすら見て，モロオカ関係の記事があるところを拾った．まだ見落としがあるかもしれない．
+## 
 # 勝手に歴史
 [会社の沿革](https://www.morooka.co.jp/company/history) と
 [youtube の会社案内](https://www.youtube.com/watch?v=EO0QuQMJbwk)と
