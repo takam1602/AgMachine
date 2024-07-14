@@ -17,4 +17,3 @@
 - [1992 04](https://jcmanet.or.jp/bunken/wp-content/uploads/1993/jcma-1993_04.pdf)
 ラットシェーバー.. 
 日立建機のラットシェーバー，後方に別エンジンを載せていたようだ．
-

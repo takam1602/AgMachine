@@ -1,4 +1,4 @@
-# AgMachine
+# AgMachine リポジトリへようこそ
 ![](./img/1.jpg)![](./img/2.jpg)
 ![](./img/3.jpg)![](./img/4.jpg)
 
@@ -10,11 +10,31 @@ Latest or oldest information of agricultural machinery
 生産者の方々に，機械開発,特に農業機械開発に携わっている方々に，機械オタクたちに，役立つ情報を提供したいと考えています．
 
 # Quick Link
-- [レベラー](ag/landLevel)
-- [スペードブレードローラー](ag/landHarrow)
-- [John Deere](ag/deere)
-- [モロオカ](ag/morooka)
-- [開拓/LandClearing](ag/landClearing)
+主な分類: 
+## 国
 - [タイ](ag/Thailand)
 - [ブラジル](ag/Brazil)
 - [オーストラリア](ag/Australia)
+
+## メーカー
+- [John Deere](ag/deere)
+- [モロオカ](ag/morooka)
+
+## 用途
+- [レベラー](ag/landLevel)
+- [スペードブレードローラー](ag/landHarrow)
+- [開拓/LandClearing](ag/landClearing)
+
+# blog
+考えたことやメモなど．
+
+- [農業機械の進化について](./blog/230804.md)
+- [常用田植え機の変遷について1](./blog/230913.md)
+- [バーティカルなソーラーパネル](./blog/230914.md)
+- [日本の農業機械はなぜ秒速](./blog/231018.md)
+
+# snow
+除雪もまた，筆者の興味の方向の1つ
+
+[除雪のページ](./snow/)
+
