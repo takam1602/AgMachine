@@ -55,12 +55,12 @@ Ag でこんなにやばかったら，Forestry ではどうなるのか．
 [Eco-Til](./brochure/EcoTil.pdf)
 [Eco-Til 2](./brochure/EcoTil2.pdf)
 
-- サブソイラだけど，リッジャのディスクは取り外し，ただ単に48インチコールタを取り付けただけの機械．
-コールタ間の土は完全に破壊されるが，土の移動は少なく，植林には良いみたい．
-- コマツの地ごしらえ機，に装着されているやつ
-- [(コマツ地ごしらえ機)](https://jifpro.or.jp/wp-content/uploads/2021/12/R03_tpps_seminar_3.pdf)
-- [コマツの森林復活の取り組み](https://www.komatsu.jp/ja/-/media/home/aboutus/brandcommunication/newspaper-1page/creating_value_together_1p.pdf?rev=265670148ee04ccf8af1f082e168b7bb&hash=AF9C72A24B9DA9E0B8F4D8E92DAA11C6)
-- [コマツの移植ブル](https://www.komatsu.jp/ja/-/media/home/aboutus/innovation/technology/techreport/2021/ja/174j06.pdf?rev=-1&hash=F9773FFAEEBACA6552D948F8D00E26F8)
+    - サブソイラだけど，リッジャのディスクは取り外し，ただ単に48インチコールタを取り付けただけの機械．
+    コールタ間の土は完全に破壊されるが，土の移動は少なく，植林には良いみたい．
+    - コマツの地ごしらえ機，に装着されているやつ
+    - [(コマツ地ごしらえ機)](https://jifpro.or.jp/wp-content/uploads/2021/12/R03_tpps_seminar_3.pdf)
+    - [コマツの森林復活の取り組み](https://www.komatsu.jp/ja/-/media/home/aboutus/brandcommunication/newspaper-1page/creating_value_together_1p.pdf?rev=265670148ee04ccf8af1f082e168b7bb&hash=AF9C72A24B9DA9E0B8F4D8E92DAA11C6)
+    - [コマツの移植ブル](https://www.komatsu.jp/ja/-/media/home/aboutus/innovation/technology/techreport/2021/ja/174j06.pdf?rev=-1&hash=F9773FFAEEBACA6552D948F8D00E26F8)
 
 ### Land Clearing
 - Single Blade/Root plows

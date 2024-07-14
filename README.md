@@ -16,3 +16,5 @@ Latest or oldest information of agricultural machinery
 - [モロオカ](ag/morooka)
 - [開拓/LandClearing](ag/landClearing)
 - [タイ](ag/Thailand)
+- [ブラジル](ag/Brazil)
+- [オーストラリア](ag/Australia)
