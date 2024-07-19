@@ -38,3 +38,7 @@ Latest or oldest information of agricultural machinery
 
 [除雪のページ](./snow/)
 
+# manual
+機械の使い方などをまとめています．
+
+- [小麦コンバイン(notionへ)](https://takam1602.notion.site/71285afa237b4355bffca9ee7caa2e40?pvs=4)
