@@ -21,6 +21,7 @@ Krause manufactured a line of tillage equipment for CAT in the year 2000 includi
 - Mulch ripper(Disc ripper)
 - Soil finisher
 - Field cultivator
+
 を製造してもらっていたらしい．
 
 なるほど，確かに，Eのchallenger になってくると，黄色い作業機で作業している写真がカタログに時たま見られる．
@@ -33,8 +34,23 @@ Krause manufactured a line of tillage equipment for CAT in the year 2000 includi
 本当かどうか分からないが，確かに，TL2はIn-line ripper だし，TL3 はDisc ripperで，TL4 はfinisher だ．
 
 調べてみると，TL5 はField cultivator だ．
-[TL5 50](https://www.youtube.com/watch?v=5bj7o0RmxXY)
 
-インスタの氏の発言が本当なら，まあTL2~TL5 まで，それぞれ出揃ったことになる．
+[TL5 50のYoutube](https://www.youtube.com/watch?v=5bj7o0RmxXY)
 
-ごく短い，僅かな期間で，CAT のTillage equipment が出回ったのであれば，現在稼働している機械は大変に貴重なものであろう．
+インスタの，Big Tractor氏の発言が本当ならば，CAT カラーのTillage Equipment はTL2~TL5 それぞれの機械である可能がある．
+
+ごく短い，僅かな期間で，CAT のTillage equipment が市場に出回ったのであれば，現在稼働している機械は大変に貴重なものであろう．
+
+### TL2 Inline Ripper
+
+まあ，普通のリッパーだろうと思ったら，Krause のリッパーが特殊みたいだ．
+現在のKuhn-Krause のリッパーと形状が似ている(リンク)
+Deere の2100 と比べると，全然違う．
+
+#### 同じところ
+- ヒッチはカテ3
+- スタンダードはスプリングクッション，コールタもスプリングクッション
+- フレームはツールバー方式，スタンダードもコールタも，全てUボルト
+- 
+#### 違うところ
+- ゲージホイールが1段目のツールバーの真下，コールタと同じ位置
