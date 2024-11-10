@@ -5,7 +5,32 @@
 ## Tillage Equipment
 1番マニアックな機械の項だとは理解しているが，情報があまりにも少なすぎて，毎回検索するのが大変なので，ここにまとめて記す．
 
+-[当時の記事(2000年11月9日(ちょうど24年前!!))](https://www.farmanddairy.com/news/krause-to-make-tillage-tools-for-caterpillar/3671.html)
+DEKALB, Ill. – Caterpillar Agricultural Products Inc. will offer a line of tillage tools manufactured by Krause Corporation, Hutchinson, Kan., for use with track tractors.
+
+The new line will include a family of disc rippers and in-line rippers, as well as seedbed finishing tools. Initial availability for the United States and Canadian markets is expected in fall 2001.
+
+Krause will continue to manufacture and market its own line of tillage equipment and grain drills under the Krause brand identity.
+
+The Caterpillar tillage products will be identified with Caterpillar’s signature yellow paint and logo, and will be marketed through Caterpillar’s U.S. and Canadian dealer networks.
+
+-[Who makes Caterpillar rippers](https://talk.newagtalk.com/forums/thread-view.asp?tid=258098&DisplayType=flat&setCookie=1)
+
+All of the CAT tillage tools (ag proper: deep tillage, finishing and discs) were joint products between Krause and Caterpillar Ag Products and sold under the CAT brand; unlike Rome tools, which were aftermarket options only, and not affiliated with CAT whatsoever. 
+The CAT tillage tools were introduced in 2001 and died in 2002. 
+They were (still are) every bit as good a product as Krause produces with some unique features exclusive to the CAT brand (at the time) like narrow road transport for the folding units to ensure transport width was consistent with the max. 
+Row spacing width of Challenger MT 700 and 800 series track tractors and cushion hitches for improved ride quality. 
+Nice tools. 
+I wouldn't be afraid of them. 
+Repair parts readily available via Krause.
+
+- [CAT tillage](https://www.thecombineforum.com/threads/cat-tillage.12987/)
+
+
+これらの記事をまとめると，2001年に登場して2002年にはCATは農業部門から撤退したわけだから，1年くらいしか黄色いTillage Tools を見ることが出来なかったということになる．
+
 - [Big Tractor Power さんのTL2 930 ripper 作業風景](https://youtu.be/Z2ynk1qXyx8?si=1EOmNVf5TurZtsXG)
+
 まあレアな機械ですこと．
 Cat が製造したのではなく，Krause のOEM
 
@@ -55,6 +80,15 @@ Deere の2100 と比べると，全然違う．
 #### 違うところ
 - ゲージホイールが1段目のツールバーの真下，コールタと同じ位置
 
+### TL3 Disk ripper
+
+### TL4 Multi Finisher
+
+### TL5 Field Cultivator
+これだけ，まだカタログが見つかってない．
+![](./img/tl5_3.jpeg)
+
+でも，動画はあるし，こういう写真はある．
 
 ## Track Tractor 
 
