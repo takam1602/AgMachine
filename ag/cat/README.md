@@ -54,3 +54,30 @@ Deere の2100 と比べると，全然違う．
 - 
 #### 違うところ
 - ゲージホイールが1段目のツールバーの真下，コールタと同じ位置
+
+
+## Track Tractor 
+
+[bigtractorpower氏の動画](https://www.youtube.com/watch?v=hEjiFfajYf0)
+や
+[氏のブログ](http://www.bigtractorpower.com/caterpillartractors.htm)
+によく語られてる．
+
+- 1987年, Challenger 65が市場初となる，ゴムクローラトラクタ(Rubber Track Tractor)が発表．イリノイ州のディカルブで生産されていた．ディカルブにあったトラクター工場は，2002年にCat が農業用トラクターをAGCOに売却し，2003年にAGCOがミネソタ州ジャクソンに工場を移転するまで，16年ほど稼働をした．
+
+- [google map](https://www.google.com/maps/place/CEVA+DEKALB/@41.9527044,-88.712512,981m/data=!3m1!1e3!4m6!3m5!1s0x880f2b4b0cb22b4b:0x95792b28b2230e93!8m2!3d41.9525604!4d-88.7129211!16s%2Fg%2F11h5q0c0dx?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D)
+12101 BARBER GREENE RD., DE KALB, IL 60115 
+
+2003年にAGCOの工場が閉鎖されるまで，そこでトラクタが作られ続けていたが，現在は運送会社の持ち物になっている．
+![](./img/old_catPlant.png)
+Goolge earthの1999年のスクショ．上側にトラクタらしきものが並んでいるのが見える．
+- AGCOの工場が閉鎖されてから，3MのプラントDK2でもあった．
+- [こういう，北イリノイ大学の学生新聞の記事](https://northernstar.info/65445/news/city/new-commercial-property-soon-to-be-developed-part-of-dekalb/)
+
+に情報がまとめられていたから，こういう情報にアクセスできた．
+
+素晴らしい．ありがとう，当時の北イリノイ大学の学生, Shivangi Potdarさん．
+
+- [AGCOの，Dekaulb 工場閉鎖のプレスリリース](https://investors.agcocorp.com/news-releases/news-release-details/agco-plans-close-dekalb-ill-plant)
+
+
