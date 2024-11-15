@@ -33,6 +33,7 @@ Latest or oldest information of agricultural machinery
 - [バーティカルなソーラーパネル](./blog/230914.md)
 - [日本の農業機械はなぜ秒速](./blog/231018.md)
 - [連作障害を回避したい](./blog/240723.md)
+- [オーガーとドレーパー](./blog/241116.md)
 
 # snow
 除雪もまた，筆者の興味の方向の1つ
