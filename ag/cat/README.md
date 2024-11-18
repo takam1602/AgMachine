@@ -1,5 +1,6 @@
 # Caterpillar
 
+※日本のchallenger については[こちら](./challengerJP.md)
 今は亡き，Challenger Tractor について深堀する．
 
 ## Tillage Equipment
@@ -130,7 +131,9 @@ Deere の2100 と比べると，全然違う．
 
 ## Track Tractor 
 
-[bigtractorpower氏の動画](https://www.youtube.com/watch?v=hEjiFfajYf0)
+[bigtractorpower氏の動画1](https://www.youtube.com/watch?v=hEjiFfajYf0)
+や
+[bigtractorpower氏の動画2](https://www.youtube.com/watch?v=nEWKNSJCdR0)
 や
 [氏のブログ](http://www.bigtractorpower.com/caterpillartractors.htm)
 によく語られてる．
