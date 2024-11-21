@@ -10,7 +10,7 @@ Latest or oldest information of agricultural machinery
 生産者の方々に，機械開発,特に農業機械開発に携わっている方々に，機械オタクたちに，役立つ情報を提供したいと考えています．
 
 # Quick Link
-主な分類: 
+
 ## 国
 - [タイ](ag/Thailand)
 - [ブラジル](ag/Brazil)

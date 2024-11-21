@@ -1,6 +1,6 @@
 # Caterpillar
 
-※日本のchallenger については[こちら](./challengerJP.md)
+※ 日本のchallenger については[こちら](./challengerJP.md)
 今は亡き，Challenger Tractor について深堀する．
 
 ## Tillage Equipment
@@ -137,20 +137,84 @@ Deere の2100 と比べると，全然違う．
 や
 [氏のブログ](http://www.bigtractorpower.com/caterpillartractors.htm)
 によく語られてる．
+
 ### caterpillar 社のトラクタ
+#### 要約
 - Holt 社とBest 社のトラクタでアメリカを開拓したところから．
 - 20世紀半ばから，建設業界へシフト．農業機械の専業メーカーではなくなる．
+- 1987年にchallenger 65 を発表，農業機械業界に再び参入
+- 2002年春にAgco へchallenger の販売・製造を移譲，caterpillar は再び農業業界から手を引く．
 
-### 農業用トラクタの復活
+### 農業用トラクタ
+#### Dekalb plant
 - 1987年, Challenger 65が市場初となる，ゴムクローラトラクタ(Rubber Track Tractor)が発表．イリノイ州のディカルブで生産されていた．ディカルブにあったトラクター工場は，2002年にCat が農業用トラクターをAGCOに売却し，2003年にAGCOがミネソタ州ジャクソンに工場を移転するまで，16年ほど稼働をした．
 
 - [google map](https://www.google.com/maps/place/CEVA+DEKALB/@41.9527044,-88.712512,981m/data=!3m1!1e3!4m6!3m5!1s0x880f2b4b0cb22b4b:0x95792b28b2230e93!8m2!3d41.9525604!4d-88.7129211!16s%2Fg%2F11h5q0c0dx?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D)
 12101 BARBER GREENE RD., DE KALB, IL 60115 
 
+ディカルブの工場は，flat belt tractor を主に製造していた．
 
 2003年にAGCOの工場が閉鎖されるまで，そこでトラクタが作られ続けていたが，現在は運送会社の持ち物になっている．
 ![](./img/old_catPlant.png)
 Goolge earthの1999年のスクショ．上側にトラクタらしきものが並んでいるのが見える．
+
+#### Manitoba plant (New Holland Versatile)
+
+[bigtractorpower氏の動画2](https://www.youtube.com/watch?v=nEWKNSJCdR0)
+の翻訳．
+
+高馬力なflat belt tractor の売れ行きが好調な一方で，軽量でトラック幅が可変なrow-crop tractor の需要が高まった．
+そこで，1995年に，初めて, 35,45,55と行った，triangle belt tractor を発表した．
+
+このトラクターは，一からCaterpillar が設計・製造したのではなく，当時NewHolland が発表していたGenesiss トラクターをベースに製造したものだった．
+
+Dekalb ではなく，Manitoba 州のWhinipeg にVersatile が工場を所有していたため，そこで製造していた．
+ということで，35, 45, 55 はカナダ製ということになる．
+[ウィニペグの工業団地にある工場](https://maps.app.goo.gl/bvpchyrUVLgSyo589)
+
+1998年まで製造していた，というサイトがいくつかあるが
+[Tractor Data](https://www.tractordata.com/farm-tractors/tractor-brands/challenger/challenger-tractors.html)
+[2001年製造？のCH45](https://www.equipmentfacts.com/listing/auction-results/228289373/2001-caterpillar-ch45-175-hp-to-299-hp-tractors)があったり，そのPINはcaterpillar のパーツカタログサイトで検索に引っかかる．
+[パーツカタログ](https://parts.cat.com/en/catcorp/parts-diagram?systemId=00000300&componentId=00000309&ieSystemControlNumber=SEBP28610336)
+
+このことから，1998年でWinnipeg で生産を終了したあともDekalb で製造していたのでは疑惑がある．
+
+また，2000年に35,45,55 のカタログが発行されていたことからも，Winnipeg かDekalb で製造していたとおもわれる．
+ [ebay のカタログ](https://www.ebay.com/itm/373845563568)
+ や
+ [ebay のカタログ](https://www.ebay.com/itm/174921454787?_skw=Caterpillar+Challenger+35%2C45%2C55&itmmeta=01JD7NZR2VSJEA0F13GSWHJBFE&hash=item28ba2194c3:g:vD8AAMXQq8BQ7X4C&itmprp=enc%3AAQAJAAAA4HoV3kP08IDx%2BKZ9MfhVJKnYPiz4yyLoTjI6oEOvwL2s%2BWJl3%2B3t4CJBA%2B0g370V%2FPrF1C6bQWjc2XBA4h5hKT5jig6c2cALmD0ooa3P%2BmA9cIlfB9OG2Z1IQN3CJRyA6e810bcQ9nWuBzimaTEKzTQeHYGbBS1z84qig7uJdwJ%2FyNp1wwkozpZnHpxs728TQOoCfMeQDb1sJ34F7UDnOaI9X%2Bj0eF8YZH7m4svcskOrTwuh7VvivIhiaBmfeI3we%2FK6qdMSKXnWz89ZEN74T9j4I%2FedbaIr%2FKEeAyQ%2FYStQ%7Ctkp%3ABk9SR8SB__XpZA)
+
+ このような，2000年前後にもtriangle belt tractor があったということは，dekalb でしょう．
+
+ Versatile 公式は，Genesiss tractor を作っていたことや，CH35~55を作っていたことを[公言している](https://www.versatile-ag.com/NA/pages/newsletter_04-03.php)けど，製造は1998年まで，と書いている．
+
+ やっぱり，Winnipeg では1998年まで作っていて，そのあとはDekalb で作っていた，ということなのではなかろうか．
+ そういえば，Chaterpillar chroniclの本や(Big Tractor Power氏のブログ)[http://www.bigtractorpower.com/caterpillartractors.htm]でちらっと写っている背景のトラクターたちは，おそらくEシリーズで，1998年くらいに撮影されたものと思われる．
+
+Triangle Belt Tractor は見つからないが...
+
+色々検索していると，Camso のカタログが見つかった．
+[カタログ](https://www.dandjfarmsupply.com/pdfs/Cat_Track_Reference_Guide.pdf)
+には，CH35~55は1994年から2001年まで製造と書いてある．
+やっぱりそうだ．
+
+てことは，1999~2001年まで，Delakb で製造していたに違いない．
+後期のRow-Crop Challenger のプレートはEシリーズと同じであることから，そう，推測した．
+
+カナダ製とアメリカ製，正確には組み立てが異なるということだろうか．
+[combine forum の記事](https://talk.newagtalk.com/forums/thread-view.asp?tid=150422&DisplayType=nested)
+でも，シリアルナンバー関連の話題で，Dekalbに移したあとは，シリアルナンバーの表記が変わったかもしれないとの発言がある．
+
+[95E の動画 ](https://www.youtube.com/watch?v=-z4n0nUdUvE)
+を眺めてると3分20秒くらいとのところに，CH55みたいなのが写っている．
+
+![](./img/ch55_dekalb.png)
+
+8分3秒くらいからは，結構やばいのいっぱい写ってる．
+CH35, 45かのTriangle Belt も[写ってる](./img/chRowCrop_outside.png)
+し，なによりプロトタイプが結構[写ってる](./img/ch_prottype.png)．
+
+映像から，2002年3月くらいまでの，caterpillar がトラクターを作り終えるまでの期間であっても，CH35, 45, 55 はWinnipeg からDekalbで製造していただろう，裏付けが取れた．
 
 #### 2001年7月の内容
 [way back machine さまさま](https://web.archive.org/web/20010817194614/http://caterpillar.com/industry_solutions/agriculture/01_new_equipment/_products/rowcrop.html)
@@ -160,6 +224,7 @@ It's a characteristic designed and built into every piece of CAT equipment.
 On your farm, that value translates into the durability that keeps you up and running. 
 It means an investment that returns more than the original price in productivity gains. 
 And it shows up in the day-to-day simplicity of operating and maintaining each machine. Caterpillar agricultural equipment is focused on providing value-added equipment solutions that meet the needs of your farming operation. 
+
 ### トラクタ製造の終焉
 - [2001年12月17日のプレスリリース](https://web.archive.org/web/20021006044325/http://caterpillar.com/about_cat/news/01_corporate/getprdata.html?file=newscorp008592606.dat&callingdoc=/about_cat/news/01_corporate/corporate.html)
 
