@@ -216,6 +216,48 @@ CH35, 45かのTriangle Belt も[写ってる](./img/chRowCrop_outside.png)
 
 映像から，2002年3月くらいまでの，caterpillar がトラクターを作り終えるまでの期間であっても，CH35, 45, 55 はWinnipeg からDekalbで製造していただろう，裏付けが取れた．
 
+##### 決定的なFarmers weekly の記事
+35, 45, 55 はWinnipeg の工場で生産が終わったのか論争(そんなのないけど)について、決定的な記事が見つかった。
+[1999年4月のファーマーズウィークリーの記事](https://www.fwi.co.uk/news/going-to-grounds)
+によると
+
+
+Going to grounds… 9 April 1999
+
+Rubber-tracked Cat production switches to US
+
+By Peter Hill
+
+US agricultural and construction equipment giant Caterpillar has moved production of its three smaller Challenger rubber track tractors to its own plant in the US.
+
+Since the mid-size tractor was launched in 1994, the Challenger 35, 45 and 55 (now sold in Europe in Claas colours) have been assembled under contract at New Hollands Versatile factory in Winnipeg, Canada. This was a logical arrangement, given the extent to which major components are shared with New Hollands G/70 series tractors.
+
+But the "little Cats" are now being put together at Caterpillars DeKalb, Illinois, facility where the larger Challengers have been assembled for more than four years.
+
+The US plant also makes Caterpillars VFS (Versatile Flotation System) tracked trailers and "chaser bins", so the move concentrates the companys current farm tractor activities in one location, and saves shipping built-up Mobil-trac undercarriage assemblies to Winnipeg.
+
+Since the company will continue to source components from New Holland (principally the cab and transmission/hydraulics assemblies), few changes result from the move, although Caterpillar has taken the opportunity to upgrade the specification of models now coming off its own assembly line.
+
+Chief among these is a 38% increase in hydraulics oil flow from 120 to 163 litres/min (26 to 36 gal/ min), with an accompanying boost in maximum system pressure from 189 to 200 bar (2750 to 2900psi).
+
+The model 55 benefits from increased maximum power output and greater torque back-up and an improved 60 degree chevron pattern for the drive wheel.
+
+Shortening the rear hitch brings implements 100mm (4in) closer to improve balance and increase effective lift a touch, while revised front weights (similar to E series Challengers) are said to provide a simpler but more efficient counter-weight arrangement. &#42
+
+Caterpillar has moved production of its smaller three Challenger models (sold in Europe under the Claas name) from New Hollands Winnipeg plant in Canada to its own facility at DeKalb, Illinois, USA.
+
+詳しい情報が書かれている。
+結論から、やっぱりWinnipeg からDekalb に1999年に移っていた。
+そして、やっぱり、Winnipeg で生産されていたchallenger とDekalb に移ってから生産されていたchallenger は仕様が異なるようだ。
+具体的には、
+- 油圧流量が38% 増加、
+- 油圧最大圧力が189->200bar に引き上げ
+- 55はエンジンの改良、シェブロンパターンホイールのオプション
+- リアヒッチの短縮
+- フロントウェイト(Eシリーズに類似)を装着
+などのようだ。
+
+
 #### 2001年7月の内容
 [way back machine さまさま](https://web.archive.org/web/20010817194614/http://caterpillar.com/industry_solutions/agriculture/01_new_equipment/_products/rowcrop.html)
 
@@ -265,6 +307,11 @@ AGCO Corporation, headquartered in Duluth, Georgia, is a global designer, manufa
 ということで，2002年の第1期までに，cat のプラントはAGCOに引き渡されたことになった．
 
 
+- [2001年12月21日のFarmers weeklyの記事](https://www.fwi.co.uk/news/challenger-rights)
+によると、MTシリーズの発表の1週間後に、AGCOに全てを売却することを発表したとされている。
+すげえ。　
+
+
 Way back machine で調べると，農業機械部門の製品紹介ページ(http://www.caterpillar.com/industry_solutions/agriculture/agriculture.html)について，
 
 [2002年4月3日の魚拓](https://web.archive.org/web/20020403005731/http://caterpillar.com/industry_solutions/agriculture/agriculture.html)
@@ -296,6 +343,10 @@ chat GPTによる要約
 キャタピラーの農業部門はジョン・ディアやケースIHと競合していたものの、ディーラーネットワークは農業市場に特化しておらず、競争力が不足していました。農業市場での競争を維持し、リーダー企業と渡り合うには、農業専用のディーラー網の拡大やさらなる資本投資が必要でした。しかし、会社全体の投資資金は限られており、農業部門への資金集中が他部門に悪影響を与えるリスクもあったため、キャタピラーはチャレンジャーシリーズの売却を決断しました。
 
 まあしゃあなし．
+
+[2002年3月29日のFarmers weekly の記事](https://www.fwi.co.uk/news/agco-wraps-up-challenger-deal)
+でも、AGCOが完全にcat のchallengerビジネスの買収が完了したことが報告された。
+
 
 ## 近年のchallenger
 Agco に渡ってからは，challenger シリーズは開発が続けられてきた．今も機械・工場自体は稼働してるが，challenger ブランドはAGCOの中からは消えてしまっている．
@@ -329,3 +380,38 @@ challengerシリーズのトラクターが
 [terragator, rogator ](https://www.applylikeapro.com/)
 
 みごとに数年(10年くらい)かけて，Phasing out していったことになる．
+
+## Cat とClaas
+
+- [1997年2月21日](https://www.fwi.co.uk/news/joint-deal-opens-doors-for-claas-and-caterpillar)
+Joint deal opens doors for Claas and Caterpillar
+
+- [1999年6月4日のfwi](https://www.fwi.co.uk/news/rubber-tracks-tough-enough-for-road-and-field)
+Rubber tracks tough enough for road and field
+
+- [1999年10月1日のfwi](https://www.fwi.co.uk/news/revisions-at-rear-end-of-challenger-crawlers)
+Revisions at rear end of Challenger crawlers
+
+- [2000年2月25日のfwi](https://www.fwi.co.uk/news/caterpillar-takes-over-claas-teleporter-plant)
+Caterpillar takes over Claas teleporter plant
+
+
+- [Claas celebrates... ](https://www.claas.com/en-us/press/press-releases/2024-06-13-claas-celebrates-half-a-million-combine-harvesters)
+
+    - A colorful start in North America
+
+        Over the years, many of combines made their way onto US and Canadian farms under different names and in different colors. 
+        From 1960-1970, CLAAS was the OEM responsible for the production of the blue FORD 622 and 642 combines available for sale throughout North America.
+        In 1989, CLAAS signed an agreement with Massey Ferguson where the DOMINATOR 98 and 108 where available in Massey Ferguson red and known as the MF 8450 and 8460.
+        In 1997, CLAAS and Caterpillar formed a joint venture to manufacture and retail LEXION combine harvesters together.
+        While the LEXION name was retained, it was the Caterpillar brand that dominated the machine with the Caterpillar (and later, CAT) name on the side and Caterpillar yellow and black paint.
+
+    - International production network
+
+        Since 1992, CLAAS combine harvesters have no longer been manufactured exclusively at the Harsewinkel, Germany headquarters. 
+        That year, the first CLAAS CROP TIGER rolled off the assembly line in India, of which more than 10,000 units were produced.
+        Since 2001, CLAAS has also been producing LEXION hybrid combine harvesters for the North American market in Omaha, Nebraska. 
+        Shortly after opening as a joint venture between CLAAS and Caterpillar, CAT exited the market and CLAAS took full ownership of the production facilities.
+        North American LEXION combines – many of which continued to be sold through Caterpillar dealers – retained the CAT yellow and black color scheme until 2019.  
+
+- [farmprogress](https://www.farmprogress.com/farming-equipment/pioneering-claas-combine-factory-celebrates-25-years)
