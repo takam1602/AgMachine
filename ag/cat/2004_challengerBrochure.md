@@ -1,0 +1,12 @@
+# 2004年6月のchallenger のカタログ
+-  [ba](challenger_BA_Product Specs.pdf)
+-  [lb](challenger_LB_Brochure.pdf)                        
+-  [mt200](challenger_mt200_Brochure.pfd)
+-  [mt200](challenger_mt200_Product Specs.pdf)
+-  [mt400](challenger_mt400_Product Specs.pdf)
+-  [mt500](challenger_mt500_Brochure.pdf)
+-  [mt500](challenger_mt500_Product Specs.pdf)
+-  [mt600](challenger_mt600_Brochure.pdf)
+-  [mt600](challenger_mt600_Product Specs.pdf)
+-  [mt800](challenger_mt800_Brochure.pdf)
+-  [mt800 spec](challenger_mt800_Product Specs.pdf)

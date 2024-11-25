@@ -189,8 +189,7 @@ Dekalb ではなく，Manitoba 州のWhinipeg にVersatile が工場を所有し
  Versatile 公式は，Genesiss tractor を作っていたことや，CH35~55を作っていたことを[公言している](https://www.versatile-ag.com/NA/pages/newsletter_04-03.php)けど，製造は1998年まで，と書いている．
 
  やっぱり，Winnipeg では1998年まで作っていて，そのあとはDekalb で作っていた，ということなのではなかろうか．
- そういえば，Chaterpillar chroniclの本や(Big Tractor Power氏のブログ)[http://www.bigtractorpower.com/caterpillartractors.htm]でちらっと写っている背景のトラクターたちは，おそらくEシリーズで，1998年くらいに撮影されたものと思われる．
-
+ そういえば，Chaterpillar chroniclの本や[Big Tractor Power氏のブログ](http://www.bigtractorpower.com/caterpillartractors.htm)でちらっと写っている背景のトラクターたちは，おそらくEシリーズで，1998年くらいに撮影されたものと思われる．
 Triangle Belt Tractor は見つからないが...
 
 色々検索していると，Camso のカタログが見つかった．
@@ -205,8 +204,9 @@ Triangle Belt Tractor は見つからないが...
 [combine forum の記事](https://talk.newagtalk.com/forums/thread-view.asp?tid=150422&DisplayType=nested)
 でも，シリアルナンバー関連の話題で，Dekalbに移したあとは，シリアルナンバーの表記が変わったかもしれないとの発言がある．
 
+
 [95E の動画 ](https://www.youtube.com/watch?v=-z4n0nUdUvE)
-を眺めてると3分20秒くらいとのところに，CH55みたいなのが写っている．
+を眺めてると3分20秒くらいとのところに，CH55みたいなのが写っている．これは決定的だろう。
 
 ![](./img/ch55_dekalb.png)
 
@@ -249,6 +249,7 @@ Caterpillar has moved production of its smaller three Challenger models (sold in
 詳しい情報が書かれている。
 結論から、やっぱりWinnipeg からDekalb に1999年に移っていた。
 そして、やっぱり、Winnipeg で生産されていたchallenger とDekalb に移ってから生産されていたchallenger は仕様が異なるようだ。
+
 具体的には、
 - 油圧流量が38% 増加、
 - 油圧最大圧力が189->200bar に引き上げ
@@ -257,17 +258,20 @@ Caterpillar has moved production of its smaller three Challenger models (sold in
 - フロントウェイト(Eシリーズに類似)を装着
 などのようだ。
 
+日本のチャレンジャーはどちらだろう。
 
-#### 2001年7月の内容
-[way back machine さまさま](https://web.archive.org/web/20010817194614/http://caterpillar.com/industry_solutions/agriculture/01_new_equipment/_products/rowcrop.html)
+#### なくなる直前: 2001年8月17日のCaterpillar 社のページ
+[way back machine ありがとう](https://web.archive.org/web/20010817194614/http://caterpillar.com/industry_solutions/agriculture/01_new_equipment/_products/rowcrop.html)
 
-At Caterpillar, value is more than the latest buzzword. 
-It's a characteristic designed and built into every piece of CAT equipment. 
-On your farm, that value translates into the durability that keeps you up and running. 
-It means an investment that returns more than the original price in productivity gains. 
-And it shows up in the day-to-day simplicity of operating and maintaining each machine. Caterpillar agricultural equipment is focused on providing value-added equipment solutions that meet the needs of your farming operation. 
+Challenger® Row-Crop Tractorsが[2001年8月当時のHP](./200108_ch354555.md)にも登場していた。
+
+![](./img/200108Screen.png)
+
+度々見るロゴマークはこれ。
+![](./img/undercarriage.gif)
 
 ### トラクタ製造の終焉
+
 - [2001年12月17日のプレスリリース](https://web.archive.org/web/20021006044325/http://caterpillar.com/about_cat/news/01_corporate/getprdata.html?file=newscorp008592606.dat&callingdoc=/about_cat/news/01_corporate/corporate.html)
 
 Press Release
@@ -308,11 +312,26 @@ AGCO Corporation, headquartered in Duluth, Georgia, is a global designer, manufa
 
 
 - [2001年12月21日のFarmers weeklyの記事](https://www.fwi.co.uk/news/challenger-rights)
-によると、MTシリーズの発表の1週間後に、AGCOに全てを売却することを発表したとされている。
-すげえ。　
+によると、
 
+Challenger rights
 
-Way back machine で調べると，農業機械部門の製品紹介ページ(http://www.caterpillar.com/industry_solutions/agriculture/agriculture.html)について，
+21 December 2001
+
+JUST weeks after the launch of a new generation of "small" Challenger tracked tractors, Caterpillar has decided to sell all rights to rival AGCO.
+
+The surprise deal, under which AGCO acquires all design, assembly and marketing rights for the 235hp to 306hp Challenger MT series, gives AGCO a leading entry into large-scale farms in North America.
+
+In Europe, it places a question-mark over the future role of Claas in the distribution of these machines.
+
+The tractors were due to have been launched in Claas colours at the Agritechnica exhibition in November but failed to appear at the last minute.
+
+"We have been in deep discussions with Caterpillar for a long time," says Clive Last of Claas UK. 
+"As far as we are concerned, no decision has been taken to change distribution arrangements in Europe."
+
+と、Small challenger(MT7シリーズ)の発表の1週間後に、AGCOに全てを売却することを発表したとされている。
+
+Way back machine で調べると，[農業機械部門の製品紹介ページ](http://www.caterpillar.com/industry_solutions/agriculture/agriculture.html)について，
 
 [2002年4月3日の魚拓](https://web.archive.org/web/20020403005731/http://caterpillar.com/industry_solutions/agriculture/agriculture.html)
 では，まだ見られるが，
@@ -324,19 +343,10 @@ Way back machine で調べると，農業機械部門の製品紹介ページ(ht
 [2nd Quarter の報告書](./pdf/2q02_cat_inc.pdf)
 も一応乗っけておく．
 
+- [2002年3月29日のFarmers weekly の記事](https://www.fwi.co.uk/news/agco-wraps-up-challenger-deal)
+でも、AGCOが完全にcat のchallengerビジネスの買収が完了したことが報告された。
 
-移管されたAgcoでは，MTシリーズトラクターの紹介ページがある．
-
-- AGCOの工場が閉鎖されてから，3MのプラントDK2でもあった．
-- [こういう，北イリノイ大学の学生新聞の記事](https://northernstar.info/65445/news/city/new-commercial-property-soon-to-be-developed-part-of-dekalb/)
-
-に情報がまとめられていたから，こういう情報にアクセスできた．
-
-素晴らしい．ありがとう，当時の北イリノイ大学の学生, Shivangi Potdarさん．
-
-- [AGCOの，Dekaulb 工場閉鎖のプレスリリース](https://investors.agcocorp.com/news-releases/news-release-details/agco-plans-close-dekalb-ill-plant)
-
-- [最近の記事](https://www.producer.com/crops/why-did-caterpillar-sell-off-the-challenger-line/)
+- [CATに関する最近の記事](https://www.producer.com/crops/why-did-caterpillar-sell-off-the-challenger-line/)
 chat GPTによる要約
 キャタピラーが2002年にチャレンジャーシリーズのトラクターをAGCO社に売却した背景には、いくつかの戦略的な理由がありました。主な要因は、建設機械市場の停滞で収益が減少していたことです。キャタピラーの当時のCEOであったグレン・バートン氏は、会社が建設部門での主要製品に十分な投資を行えていない一方で、農業部門には多くの資本が投入されていることに懸念を抱いていました。
 
@@ -344,12 +354,59 @@ chat GPTによる要約
 
 まあしゃあなし．
 
-[2002年3月29日のFarmers weekly の記事](https://www.fwi.co.uk/news/agco-wraps-up-challenger-deal)
-でも、AGCOが完全にcat のchallengerビジネスの買収が完了したことが報告された。
 
+- [2002年9月のAGCOの記事](https://investors.agcocorp.com/news-releases/news-release-details/agco-provides-update-challenger-product-line-distribution-0)
+では、ちゃんと販路を拡大していることがわかる。 [記事コピー](./20020923_agco.md)
+
+- Dekalb では、AGCOの工場が閉鎖されてから，3MのプラントDK2でもあった．
+- [こういう，北イリノイ大学の学生新聞の記事](https://northernstar.info/65445/news/city/new-commercial-property-soon-to-be-developed-part-of-dekalb/)
+
+に情報がまとめられていたから，こういう情報にアクセスできた．
+素晴らしい．ありがとう，当時の北イリノイ大学の学生, Shivangi Potdarさん．
+
+- [AGCOの，Dekaulb 工場閉鎖のプレスリリース](https://investors.agcocorp.com/news-releases/news-release-details/agco-plans-close-dekalb-ill-plant)
+
+新しい移転先はMinnesota州のJacksonというところ。: AGCO Jackson Operations, 202 Industrial Pkwy, Jackson, MN 56143, United States
+[AGCO Jackson](https://maps.app.goo.gl/fcCusefAGtbMQTGv7)
+
+隣にcat のdelaer Ziegler がある。
+[Ziegler Jackson](https://maps.app.goo.gl/W6rWSYMZoebFuZ8L7)
+
+- [Jacksonに移ってから](https://web.archive.org/web/20060823121345/http://www.agcocorp.com/default.cfm/PID=1.7.5)
+
+In 2002, AGCO Corporation acquired Caterpillar, Inc.’s agricultural equipment business, primarily the design, assembly and marketing of the Challenger brand track tractors. The revolutionary track system utilizes tough rubber tracks and an innovative suspension system, offering professional farmers the traction and flotation of steel tracks combined with the ride and speed of rubber tires.
+
+Using revolutionary designs and groundbreaking technology, Challenger products combine high specifications with superior reliability.  Other Challenger brand equipment has also been developed to meet customer needs and enhance dealer product offerings and service, including combines, hay tools and compact tractors.. 
+
+Challenger equipment is marketed through a growing network of Challenger dealerships worldwide.
+
+For more information, please go to www.challengerag.com 
+
+
+ということで、元気そう。
+
+- [2004年6月7日のAGCO](https://web.archive.org/web/20040607035313/http://www.challenger.agcocorp.com/)
+Going Forward With New Products
+and Better Ideas...
+
+Since 1987, when Caterpillar® introduced the world’s first farm tractor equipped with rubber tracks, the Challenger® name has stood for awesome power, cutting-edge technology and amazing versatility.  However, the Challenger name acquired even more significance in 2002, when the Challenger tracked tractor line was acquired by AGCO Corporation.
+
+Today, Caterpillar dealers continue their dedication to the farming community with a full line of agricultural products, many of which are specifically designed and built by AGCO to carry the Challenger logo. At the same time, the majority of the engines used in Challenger products, along with tracked tractor powertrains, are built by Caterpillar, making it a win-win situation... particularly for customers.
+
+Thanks to the unique corporate partnership, the agricultural lineup available under the Challenger banner is currently comprised of wheeled and tracked tractors from 23 to 500 horsepower, combines, implements and a full line of hay equipment, including windrowers, mower-conditioners, balers and disc mowers. All are sold, serviced and backed by the legendary network of world-class Caterpillar dealers.
+
+See your local Caterpillar dealer soon and learn how Challenger is Going Forward in the 21st Century. 
+
+この時代の[カタログたち](./2004_challengerBrochure.md)
+
+ということで、脈々とchallenger シリーズが量産されていく。
+
+![](./img/logo_challenger.gif)
 
 ## 近年のchallenger
-Agco に渡ってからは，challenger シリーズは開発が続けられてきた．今も機械・工場自体は稼働してるが，challenger ブランドはAGCOの中からは消えてしまっている．
+Agco に渡ってからは，challenger シリーズは開発が続けられてきた．
+
+今も機械・工場自体は稼働してるが，challenger ブランドはAGCOの中からは消えてしまっている．
 Fendt ブランドに統合されてしまった．
 
 [2020年3月には掲示板で話題になっていた．](https://www.allischalmers.com/forum/agco-discontinuing-the-challenger_topic169223.html)
