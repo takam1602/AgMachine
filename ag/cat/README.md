@@ -6,7 +6,7 @@
 ## Tillage Equipment
 1番マニアックな機械の項だとは理解しているが，情報があまりにも少なすぎて，毎回検索するのが大変なので，ここにまとめて記す．
 
--[当時の記事(2000年11月9日(ちょうど24年前!!))](https://www.farmanddairy.com/news/krause-to-make-tillage-tools-for-caterpillar/3671.html)
+- [当時の記事(2000年11月9日(ちょうど24年前!!))](https://www.farmanddairy.com/news/krause-to-make-tillage-tools-for-caterpillar/3671.html)
 DEKALB, Ill. – Caterpillar Agricultural Products Inc. will offer a line of tillage tools manufactured by Krause Corporation, Hutchinson, Kan., for use with track tractors.
 
 The new line will include a family of disc rippers and in-line rippers, as well as seedbed finishing tools. Initial availability for the United States and Canadian markets is expected in fall 2001.
@@ -15,7 +15,7 @@ Krause will continue to manufacture and market its own line of tillage equipment
 
 The Caterpillar tillage products will be identified with Caterpillar’s signature yellow paint and logo, and will be marketed through Caterpillar’s U.S. and Canadian dealer networks.
 
--[Who makes Caterpillar rippers](https://talk.newagtalk.com/forums/thread-view.asp?tid=258098&DisplayType=flat&setCookie=1)
+- [Who makes Caterpillar rippers](https://talk.newagtalk.com/forums/thread-view.asp?tid=258098&DisplayType=flat&setCookie=1)
 
 All of the CAT tillage tools (ag proper: deep tillage, finishing and discs) were joint products between Krause and Caterpillar Ag Products and sold under the CAT brand; unlike Rome tools, which were aftermarket options only, and not affiliated with CAT whatsoever. 
 The CAT tillage tools were introduced in 2001 and died in 2002. 
