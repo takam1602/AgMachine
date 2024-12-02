@@ -131,12 +131,19 @@ Deere の2100 と比べると，全然違う．
 
 ## Track Tractor 
 
+トラクターの歴史については、
 [bigtractorpower氏の動画1](https://www.youtube.com/watch?v=hEjiFfajYf0)
 や
 [bigtractorpower氏の動画2](https://www.youtube.com/watch?v=nEWKNSJCdR0)
 や
 [氏のブログ](http://www.bigtractorpower.com/caterpillartractors.htm)
 によく語られてる．
+
+最も、詳しい記事は、2014年のGrainewsの記事だろう。
+- [How engineers developed the rubber-belted tractor 1](https://www.grainews.ca/machinery-shop/how-engineers-developed-the-rubber-belted-tractor/)
+- [How engineers developed the rubber-belted tractor 2](https://www.grainews.ca/machinery-shop/how-engineers-invented-the-rubber-belted-tractor-for-ag/)
+
+それぞれの記事の翻訳は[こちら](./grainews_2014.md)
 
 ### caterpillar 社のトラクタ
 #### 要約
@@ -146,6 +153,7 @@ Deere の2100 と比べると，全然違う．
 - 2002年春にAgco へchallenger の販売・製造を移譲，caterpillar は再び農業業界から手を引く．
 
 ### 農業用トラクタ
+
 #### Dekalb plant
 - 1987年, Challenger 65が市場初となる，ゴムクローラトラクタ(Rubber Track Tractor)が発表．イリノイ州のディカルブで生産されていた．ディカルブにあったトラクター工場は，2002年にCat が農業用トラクターをAGCOに売却し，2003年にAGCOがミネソタ州ジャクソンに工場を移転するまで，16年ほど稼働をした．
 
