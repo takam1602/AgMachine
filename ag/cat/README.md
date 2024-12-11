@@ -145,17 +145,114 @@ Deere の2100 と比べると，全然違う．
 
 それぞれの記事の翻訳は[こちら](./grainews_2014.md)
 
-### caterpillar 社のトラクタ
+### Caterpillar 社のトラクタ
 #### 要約
 - Holt 社とBest 社のトラクタでアメリカを開拓したところから．
 - 20世紀半ばから，建設業界へシフト．農業機械の専業メーカーではなくなる．
 - 1987年にchallenger 65 を発表，農業機械業界に再び参入
 - 2002年春にAgco へchallenger の販売・製造を移譲，caterpillar は再び農業業界から手を引く．
+#### 農業用トラクタの開発過程
+先程のGrainnews の記事が最も詳しい。
+他の写真も掲示板に流通してしまっている。
+[newagtalk](https://talk.newagtalk.com/forums/thread-view.asp?tid=274454&DisplayType=flat)
+- ![](./img/4955track.jpg)
+- ![](./img/4955track1.jpg)
+- ![](./img/4955track2.jpg)
+- ![](./img/fordpowershifttrack.jpg)
+- ![](./img/battrac.jpg)
+- ![](./img/catx2.jpg)
+
+様々な試作・開発工程があって、65が出来上がった。
 
 ### 農業用トラクタ
 
+1987年, Challenger 65が市場初となる，ゴムクローラトラクタ(Rubber Track Tractor)が発表．
+オーロラ工場で最初の65を生産した後、イリノイ州のディカルブで生産sされた。
+ディカルブにあったトラクター工場は，2002年にCat が農業用トラクターをAGCOに売却し，2003年にAGCOがミネソタ州ジャクソンに工場を移転するまで，16年ほど稼働をした．
+
+#### Davenport plant
+最初の、65の組み立てを行った/行う予定だった工場。
+[ebay で売られていたDavenport の帽子](https://www.ebay.com/itm/267031413235)
+![](./img/davenport_65_cap.png)
+
+1987年1月15日の[記事](https://www.chicagotribune.com/1987/01/15/caterpillar-to-close-3-plants/)では、
+Davenport plant で65の製造が計画されていた、と記載がある。
+
+#### Aurora plant
+[map](https://maps.app.goo.gl/84Z6hHwccu5rgyEEA)
+
+Davenport で製造がなされたのか、どうなのかわからないが、Aurora plant で製造は計画されたそうだ。
+[Caterpillar decided to close its Davenport plant](https://www.latimes.com/archives/la-xpm-1987-02-18-fi-2621-story.html)
+L.A. Times Archives
+Feb. 18, 1987 12 AM PT
+
+Employees at the Iowa facility were informed that the company plans to shift products made at Davenport to Caterpillar plants in Aurora, East Peoria and Mossville, Ill.
+D6H track-type tractors will be assembled at the East Peoria plant. 
+The new Challenger 65 agricultural tractor will be assembled at the Aurora plant. 
+Davenport Production will be phased out over a number of months.
+
+ということだそうだ。
+Davenport のデザインと全く同じ,[ebay で売られていたAuroraの帽子](https://www.ebay.com/itm/296219555854)
+![](./img/aurora_65_cap.png)
+もある。
+
+[Caterpillar introduces tractor with new rubber track design](https://www.postbulletin.com/caterpillar-introduces-tractor-with-new-rubber-track-design)
+に書いてあるように、75はAurora plant で組み立てされたらしい。
+そして、肝心の、MTSはペオリアで製造されたと書いてある。
+
+
+PEORIA, Ill. (AP) -- Caterpillar Inc. is sinking its roots a little deeper in the agriculture equipment market by building a bigger version of its farm tractor.
+
+The Challenger 75 is an enhanced version of a smaller Challenger 65 and boasts bigger engine, more horsepower and greater productivity.
+
+People make their purchasing decisions for spring in the fall,'' said William Reno, senior consultant with Caterpillar's agriculture machinery unit. We've had an excellent response at shows and initial dealer orders have been extremely gratifying.
+
+The new Challenger features rubber tracks, called the Mobil-trac System, instead of traditional round tires on most farm equipment.
+
+Caterpillar said the rubber track spreads the tractor's weight more evenly and causes much less soil compaction than traditional tires on four-wheel-drive tractors.
+
+The company said the tracks also offer enhanced traction and mobility in muddy fields than tires, which bog down in wet conditions.
+
+Although the new tractor is bigger than the original Challenger, which debuted in 1987, it is about the same weight.
+
+Caterpillar is hoping a new, larger version of its successful farm tractor, the Challenger 65, will help fulfill the company's renewed commitment to the agriculture equipment market.
+
+A Challenger 75 prototype worked the fields of Norris Farm east of Lewistown last spring, convincing operations President Jerry Moss the new tractor has a role in his enterprise.
+
+We are very well-pleased, he said. We will probably work our way gradually to the 75.
+
+Gillett Agricultural Management Co., which runs Norris Farm, has four of the smaller Challenger 65s.
+
+Moss said the more costly Mobil-trac System on the Challenger 65 paid for itself in one year because of increased yields.
+
+Caterpillar calculates the Challenger 75 would increase corn yields by six bushels an acre. On a 1,000 acre farm with corn at $3 a bushel that would amount to an additional $18,000 a year in profits -- half the cost of the Mobil-trac System.
+
+Challenger's debut in 1987 represented Caterpillar's recent return to the agriculture market.
+
+Adding the second model line demonstrates Caterpillar's commitment to the agriculture industry, Reno said. We've always seen the Challenger family with three products in the model line and we have not changed our thinking. The third tractor would be smaller.
+
+The Springfield-based Capitol Machinery Co., carries the Challenger 65 and expects delivery of the Challenger 75 in March.
+
+Bob Beatty, Capitol's sales manager, said list price for the Challenger 65 is $140,000 and the Challenger 75 is $161,000.
+
+The rubber tracks now are being tested on a self-propelled forage harvester, a municipal sludge spreader in the Northeast and sugar cane harvesters in Florida and Hawaii.
+
+Production on the Challenger 75 begins this month at the company's Aurora plant, but the company doesn't anticipate increasing employment to accommodate the new line.
+
+The tractor's Mobil-trac System is assembled in Peoria-area facilities.
+
+[65B と65Cのネブラスカテスト](https://digitalcommons.unl.edu/tractormuseumlit/1963/?utm_source=digitalcommons.unl.edu%2Ftractormuseumlit%2F1963&utm_medium=PDF&utm_campaign=PDFCoverPages)
+
+65Cはどこで生産されたかわからない。
+
+[Auroraプラントの閉鎖](https://www.rermag.com/news-analysis/headline-news/article/20951901/caterpillar-to-shut-aurora-ill-manufacturing-facility)
+[Aurora プラントは2018年に閉鎖されてしまった](https://www.reuters.com/article/business/caterpillar-shuts-plant-in-aurora-illinois-that-employs-800-idUSKBN17332L/)
+
 #### Dekalb plant
-- 1987年, Challenger 65が市場初となる，ゴムクローラトラクタ(Rubber Track Tractor)が発表．イリノイ州のディカルブで生産されていた．ディカルブにあったトラクター工場は，2002年にCat が農業用トラクターをAGCOに売却し，2003年にAGCOがミネソタ州ジャクソンに工場を移転するまで，16年ほど稼働をした．
+おそらく65Dの製造から、ここ。
+[65Dのネブラスカテスト](https://pruefberichte.dlg.org/filestorage/CATERPILLAR-CHALLENGER_65_D_Nr1614_1996-englisch.pdf)
+
+65Dからは、イリノイ州のディカルブにある工場で組み立てされていた．ディカルブにあったトラクター工場は，2002年にCat が農業用トラクターをAGCOに売却し，2003年にAGCOがミネソタ州ジャクソンに工場を移転するまで，16年ほど稼働をした．
 
 - [google map](https://www.google.com/maps/place/CEVA+DEKALB/@41.9527044,-88.712512,981m/data=!3m1!1e3!4m6!3m5!1s0x880f2b4b0cb22b4b:0x95792b28b2230e93!8m2!3d41.9525604!4d-88.7129211!16s%2Fg%2F11h5q0c0dx?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D)
 12101 BARBER GREENE RD., DE KALB, IL 60115 
