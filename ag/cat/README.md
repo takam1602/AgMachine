@@ -1,5 +1,4 @@
 # Caterpillar
-
 ※ 日本のchallenger については[こちら](./challengerJP.md)
 今は亡き，Challenger Tractor について深堀する．
 
@@ -583,6 +582,15 @@ Deere の2100 と比べると，全然違う．
 Cat のコンバイン、中身はClaasのLexion. 
 Lexion から始まったわけではなく、おそらく228CS時代からの流れ。
 Claas がCat のtrack 技術が欲しく、Cat がClaas のコンバイン技術が欲しく、パートナーになったイメージだと思う。
+
+### 116CS, 228CS Track
+伝説の、試作コンバイン。
+228CS Track は2019年くらいのagrithecnica でミニチュアが限定販売された。
+
+[これは知らないカタログですねぇ](https://www.reddit.com/r/farmingsimulator/comments/xp0tki/claas_commander_116228_cs_mts_mod_idea/#lightbox)
+
+228CSなど、Commandor シリーズの変態コンバインに、cat のMTSを装着した、さらなる変態コンバイン。
+
 
 ### [ドイツ語の動画](https://www.youtube.com/watch?v=tqZ6o5jGDiI&list=LL&index=6)
 こは、カナダのサスカチュワン州南部にあるファミリーファームを訪れたときの様子です。ファームは州都レジャイナの南に位置し、ここからアメリカの国境までは車で約1時間の距離です。
