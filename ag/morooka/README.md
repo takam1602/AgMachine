@@ -330,18 +330,18 @@ MB-50, MB-30の大型機に改善されたリアヒッチが取り付けられ�
 
 - MITSUBISHI のカッティングレーザーロータリー
 
-!{}(./img/mitsubishi_cuttingRaserRotary.JPG)
+![](./img/mitsubishi_cuttingRaserRotary.JPG)
 
 MACの遺産だと思われるが正体は分からない．
 画像だけが手元にある．
 
 チャレンジャーに装着されている画像だが，これは諸岡のイエローだと思われる．
 
-関連特許かわからないが，{「特開平９−３２２６０７」}(https://www.j-platpat.inpit.go.jp/c1801/PU/JP-H09-322607/11/ja) はいかつい．
+関連特許かわからないが，[「特開平９−３２２６０７」](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-H09-322607/11/ja) はいかつい．
 
-!{}(./img/mitsubishi_1997_frontrortaly_1.png)
-!{}(./img/mitsubishi_1997_frontrortaly_2.png)
-!{}(./img/mitsubishi_1997_frontrortaly_3.png)
-!{}(./img/mitsubishi_1997_frontrortaly_4.png)
+![](./img/mitsubishi_1997_frontrortaly_1.png)
+![](./img/mitsubishi_1997_frontrortaly_2.png)
+![](./img/mitsubishi_1997_frontrortaly_3.png)
+![](./img/mitsubishi_1997_frontrortaly_4.png)
 
 これを，逆にしたものだろうか．
