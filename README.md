@@ -15,6 +15,7 @@ Latest or oldest information of agricultural machinery
 - [タイ](ag/Thailand)
 - [ブラジル](ag/Brazil)
 - [オーストラリア](ag/Australia)
+- [インドのclaas](ag/claas/india)
 
 ## メーカー
 - [John Deere](ag/deere)
