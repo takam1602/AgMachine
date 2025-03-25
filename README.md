@@ -15,12 +15,12 @@ Latest or oldest information of agricultural machinery
 - [タイ](ag/Thailand)
 - [ブラジル](ag/Brazil)
 - [オーストラリア](ag/Australia)
-- [インドのclaas](ag/claas/india)
 
 ## メーカー
 - [John Deere](ag/deere)
 - [モロオカ](ag/morooka)
 - [Caterpillar](ag/cat)
+- [claas](ag/claas)
 
 ## 用途
 - [レベラー](ag/landLevel)
