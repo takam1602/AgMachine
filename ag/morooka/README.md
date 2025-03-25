@@ -345,3 +345,6 @@ MACの遺産だと思われるが正体は分からない．
 ![](./img/mitsubishi_1997_frontrortaly_4.png)
 
 これを，逆にしたものだろうか．
+
+いや、これだわ(20250325)
+[特願平09-329758](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-H11-113312/11/ja)
