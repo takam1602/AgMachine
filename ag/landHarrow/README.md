@@ -6,7 +6,7 @@
 ヨーロッパにオリジナルの機械があるようだけれど，どんなものだろう．
 ということで調べてみた．
 
-# スガノのランドハローはSampo のM tiller のパチもんすね．
+# スガノのランドハローはSampo のM tillerの...
 
 昔は結構色々なメーカーのものが出ていたみたい．
 - Lawrence Edwards
@@ -14,8 +14,8 @@
 - Sampo
     - [Sampo M-tiller 1](https://www.agrimanuals.com/sampo-m-tiller-brochure-1303-p.asp)
     - [Sampo M-tiller 2](https://www.agrimanuals.com/sampo---m-tiller-brochure-4846-p.asp)
-Sampo はフィンランドのンバインメーカーっすね．
-昔はTillage equipment も作っていたようだ．
+Sampo はフィンランドのンバインメーカー。
+昔はTillage equipment も作っていたようだ。
 
 # きっかけはKnoche のカタログのローラーオプション
 
@@ -59,7 +59,7 @@ It can be used to produce more uniform seed beds, not only in unmoved soil, but 
 
 The TerraStar is fast and effective and, like all the Claydon range, it incorporates a miniumum of wearing parts, making for extremely low-cost  operation.
 
-## Baarck (ドイツ)
+## Baarck (ドイツ): ここが大手じゃないかな。
 > Der eigentliche Ursprung der Firma Baarck kommt aus dem Vetrieb und der Wartung von Spatenrolleggen aus Finnland. 
 > Seitdem hat sich vieles getan und entwickelt, so dass wir heute unsere eigenen Spatenrolleggen konzipieren und als fester Ansprechpartner auf nationaler Ebene für Ersatz- und Verschleißteile, sowie Umbau- und Reparaturarbeiten gelten. 
 > Zudem haben wir stets überarbeitete Geräte ab Hof verfügbar.

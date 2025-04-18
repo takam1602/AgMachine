@@ -40,6 +40,9 @@ Latest or oldest information of agricultural machinery
 - [CFX750からAPV5.2に速度信号を流せるか。](./blog/250404.md)
 - [CFX750からAPV5.2に速度信号を流すための準備](./blog/250407.md)
 
+# 記
+- [北海道開発](./ag/kaihatsu/README.md)
+
 # snow
 除雪もまた，筆者の興味の方向の1つ
 
