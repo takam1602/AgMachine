@@ -39,6 +39,7 @@ Latest or oldest information of agricultural machinery
 - [Claas india の機械とヤンマー](./blog/250324.md)
 - [CFX750からAPV5.2に速度信号を流せるか。](./blog/250404.md)
 - [CFX750からAPV5.2に速度信号を流すための準備](./blog/250407.md)
+- [古いスガノ(私のDNA)](./blog/250418.md)
 
 # 記
 - [北海道開発](./ag/kaihatsu/README.md)
