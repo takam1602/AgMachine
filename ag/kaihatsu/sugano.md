@@ -70,6 +70,24 @@
 
 ![](./img/sugano/kousya_konsou.JPG)
 
+これは2018年に苫小牧に置いてあったやつ。
+![](./img/sugano/tomakomai_30layermix.JPG)
+
+北見がちょっとおかしい
+![](./img/sugano/kitami_konsou.JPG)
+
+![](./img/sugano/kitami_konsou2.JPG)
+
+北見にへんなプラウがあった。
+![](./img/sugano/kitami_jumboKonsou1.JPG)
+![](./img/sugano/kitami_jumboKonsou2.JPG)
+![](./img/sugano/kitami_jumboKonsou3.JPG)
+
+なんだろう。以上にフレームがゴツく、サポートホイールが2連あるし、スキマーも大きい。
+
+花巻には、簡素化したような混層耕プラウがある(あった)。
+![](./img/sugano/hanamaki_konsou.JPG)
+
 # 分割混層耕プラウ
 
 これはやばい。普通の2段耕に見えてセカンドボトムがオフセットしていない。なんじゃこりゃ。
@@ -84,3 +102,14 @@
 これは土の館に保管されてるやつ: 苫小牧から持ってきたんじゃなかったっけ。
 
 ![](./img/sugano/kousya_sandankou.JPG)
+
+2018年に苫小牧に置いてあったやつ: いま土の館にあるのとおんなじかな
+![](./img/sugano/tomakomai_sandankou.JPG)
+
+# 草地用プラウ
+
+草地用の24"2連プラウ: おそらく
+![](./img/sugano/tomakomai_242.JPG)
+
+花巻にあった、ナタコールタのプラウ
+![](./img/sugano/hanamaki_blushBreaker.JPG)
