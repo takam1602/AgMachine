@@ -42,9 +42,10 @@
 
 
 # 粗粒火山灰土の土層改良
-[矢野先生の記事(農業土木学会誌51号11)](https://www.jstage.jst.go.jp/article/jjsidre1965/51/11/51_11_1019/_pdf/-char/ja)
-矢野先生は2011年に亡くなられた... 私が先生の思いを引きついで伝えようじゃないか。
+- [矢野先生の記事(農業土木学会誌51号11)](https://www.jstage.jst.go.jp/article/jjsidre1965/51/11/51_11_1019/_pdf/-char/ja)
 
+[この写経](./yano_soryuu.md)
+
+矢野先生は2011年に亡くなられた... 私が先生の思いを引きついで伝えようじゃないか。
 [訃報](https://www.jstage.jst.go.jp/article/sagopalm/20/1/20_1/_pdf/-char/en)
 
-[写経](./yano_soryuu.md)
