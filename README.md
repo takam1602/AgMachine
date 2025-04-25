@@ -44,6 +44,7 @@ Latest or oldest information of agricultural machinery
 - [Claas india の機械とヤンマー](./blog/250324.md)
 - [CFX750からAPV5.2に速度信号を流せるか。](./blog/250404.md)
 - [CFX750からAPV5.2に速度信号を流すための準備](./blog/250407.md)
+- [CFX750からAPV5.2に速度信号(最終回)](./blog/250422.md)
 - [古いスガノ(私のDNA)](./blog/250418.md)
 
 # snow
