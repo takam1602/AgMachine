@@ -6,6 +6,12 @@ Latest or oldest information of agricultural machinery
 
 最新・旧式の農業機械の情報を格納しているレポジトリです．
 
+# おしらせ　
+typescript やnext.js の勉強がてら，新しいサイトに移行中です．
+[新しい](https://agmachie-blog.vercel.app/)
+
+まだしばらくかかりそうですが，ここはアップしなくなります．
+
 # Objectives
 生産者の方々に，機械開発,特に農業機械開発に携わっている方々に，機械オタクたちに，役立つ情報を提供したいと考えています．
 
